@@ -1,10 +1,13 @@
 # NextGenLearners-Week1-Data-Cleaning
 Week 1 - Foundations: Cleaning and Exploring the Applicant Dataset
+
 EXECUTIVE SUMMARY
+
 Real-world data is inherently messy and unpredictable. It frequently contains missing values, typos, duplicate entries, inconsistent formatting, and improper data types. This repository contains the complete end-to-end data cleaning, wrangling, and initial exploratory data analysis (EDA) pipeline for raw applicant records, processed programmatically using Python and Pandas.   
 The primary objective of this project is to simulate the exact workflow of a Data Analyst at NextGenLearners—transforming raw, untrusted applicant records into an accurate, reliable, and reproducible dataset ready for analytical reporting and downstream decision-making.  
 
 REPOSITORY DELIVERABLES
+
 Fully documented Google Colab / Jupyter Notebook containing executable Python cleaning code accompanied by detailed explanations for every major decision.   applicants_cleaned.csv
 
 The final exported clean dataset featuring zero critical missing values, no duplicates, standardized categories, and verified data types.   README.mdComprehensive project documentation detailing the methodology, cleaning decisions, and data quality summary report.
